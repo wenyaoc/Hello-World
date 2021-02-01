@@ -1,6 +1,7 @@
 # Hello-World
 ### 你好，世界！
-This is a super boring repo that covers the "Hello World!" in different languages I've learnt.
+This is a super boring repo that covers the "Hello World!" in different languages I've learnt.<br/>
+精通所有Hello World，走遍世界都不怕！
 
 ### Language Covered:
 * C
