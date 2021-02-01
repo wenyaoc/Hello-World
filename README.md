@@ -1,5 +1,6 @@
 # Hello-World
-"Hello World !" in different languages I've learnt
+### 你好，世界！
+This is a super boring repo that includes files output "Hello World" in different languages I've learnt.
 
 ### Language Covered:
 * C
@@ -7,7 +8,7 @@
 * Python
 * Mips
 * Verilog HDL <br/>
-out put "HELLO" on a 7-seg display controled by the input clock<br/>
+*output "HELLO" on a 7-seg display controlled by the input clock*<br/>
 ![7-seg](/Image/7-seg.PNG)
 * Java
 * HTML
