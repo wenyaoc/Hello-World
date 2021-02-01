@@ -7,3 +7,4 @@
 * Python
 * Mips
 * Java
+* HTML
